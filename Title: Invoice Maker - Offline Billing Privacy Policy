@@ -1,36 +1,90 @@
-Privacy Policy for Invoice Maker - Offline Billing
+ Privacy Policy for Invoice Maker - Offline Billing
+
 Effective Date: April 19, 2026
 
-1. Introduction
-This Privacy Policy applies to the "Invoice Maker - Offline Billing" mobile application (the "App") developed by [Your Name or Company Name]. We are committed to protecting your privacy and ensuring that your data remains secure.
+## 1. Introduction
 
-This policy outlines our practices regarding the collection, use, and disclosure of your information when you use our App. By using the App, you agree to the terms outlined in this Privacy Policy.
+This Privacy Policy applies to the **"Invoice Maker - Offline Billing"** mobile application (the "App") developed by **VertexByte Technologies**. We are committed to protecting your privacy and ensuring that your data remains secure.
 
-2. Data Collection and Use
-We do not collect, transmit, distribute, or sell your personal data. "Invoice Maker - Offline Billing" operates entirely offline. All data you enter into the App—including but not limited to your business details, client information, financial figures, and generated invoices—is stored locally on your device. We do not have access to your data, nor is it uploaded to any external servers or cloud storage by us.
+This policy outlines our practices regarding the collection, use, and disclosure of information when you use our App. By using the App, you agree to the terms outlined in this Privacy Policy.
 
-3. Local Storage
-The App utilizes your device's local storage (such as internal memory) to save your invoices and settings. This means you are solely responsible for the safety and backup of your data. If you uninstall the App or clear its data, your saved invoices and information may be permanently deleted unless you have manually backed them up using your device's native backup features.
+## 2. Data Collection and Use
 
-4. Device Permissions
+**Invoice Maker - Offline Billing** is primarily designed to operate offline. The invoice and business information you enter into the App—including, but not limited to, your business details, client information, financial figures, and generated invoices—is stored locally on your device.
+
+We do not collect, transmit, distribute, or sell your invoice data or other personal information entered directly into the App. We do not upload your invoices or business records to our own servers or cloud storage.
+
+However, the App may display advertisements provided by third-party advertising partners. These advertising partners may automatically collect certain information from your device for purposes such as serving, measuring, and improving advertisements, subject to their own privacy policies and applicable laws.
+
+Our third-party advertising partners may include:
+
+* Mintegral**
+* DT Exchange / Fyber**
+
+The information potentially collected by these advertising partners may include device-related information, advertising identifiers, IP address, app and advertising interaction information, and other technical information necessary for advertising and fraud prevention. The exact information collected depends on the advertising SDKs, your device settings, applicable laws, and the partners' respective policies.
+
+## 3. Local Storage
+
+The App utilizes your device's local storage (such as internal memory) to save your invoices, business information, and settings.
+
+This means you are solely responsible for the safety and backup of your locally stored data. If you uninstall the App or clear its data, your saved invoices and information may be permanently deleted unless you have manually backed them up using your device's native backup features.
+
+## 4. Device Permissions
+
 To function properly, the App may request the following permissions on your device:
 
-Storage/Files and Media: This permission is strictly required to save generated PDF invoices to your device's local storage and to allow you to attach a business logo from your gallery to your invoices.
+**Storage / Files and Media:** This permission may be required to save generated PDF invoices to your device's local storage and to allow you to select or attach a business logo from your gallery to your invoices.
 
-We do not use these permissions to access any personal files outside of the App's core functionality.
+We do not use these permissions to access personal files outside the App's core functionality.
 
-5. Third-Party Services
-Because the App operates completely offline, it does not integrate with third-party tracking services, analytics providers, or external advertising networks that collect user data.
+Third-party advertising SDKs may also request or access certain device information as permitted by the operating system and applicable permissions. Such processing is governed by the respective third-party providers' privacy policies.
 
-6. Children's Privacy
-Our App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. Since the App operates offline and collects no data, no information is gathered from users of any age.
+## 5. Third-Party Advertising Services
 
-7. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
+The App uses third-party advertising partners to display advertisements. These partners may use software development kits (SDKs) that collect certain device and advertising-related information.
 
-8. Contact Us
+Our advertising partners may include:
+
+### Mintegral
+
+Mintegral provides mobile advertising services and may process device and advertising-related information to deliver, measure, and improve advertisements, as well as for fraud prevention and related purposes.
+
+### DT Exchange / Fyber
+
+DT Exchange (formerly associated with Fyber) provides mobile advertising and monetization services. Its advertising technology may process device, advertising, and technical information for purposes including ad delivery, measurement, optimization, and fraud prevention.
+
+These third-party providers may collect information independently from us. We do not control how these third parties process information collected through their advertising SDKs. Their processing is subject to their respective privacy policies and terms.
+
+You can learn more about their data practices through their respective privacy policies.
+
+## 6. Children's Privacy
+
+Our App does not knowingly target or collect personally identifiable information from children under the age of 13.
+
+Because the App's invoice and business data is stored locally on the device, we do not knowingly collect such information ourselves. However, third-party advertising providers may have their own policies and age-related requirements regarding advertising and data collection.
+
+If you believe that a child has provided personal information through the App or that information has been improperly collected, please contact us using the information below.
+
+## 7. Data Security
+
+We take reasonable measures to protect the information handled by the App. Invoice and business information entered into the App is stored locally on your device and is not transmitted to our own servers.
+
+However, no method of electronic storage or transmission can be guaranteed to be completely secure. You are responsible for maintaining the security of your device and making appropriate backups of your data.
+
+Information collected by third-party advertising providers is subject to their respective security practices and privacy policies.
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of changes by posting the updated Privacy Policy and changing the **Effective Date** at the top of this page.
+
+You are advised to review this Privacy Policy periodically for any changes.
+
+## 9. Contact Us
+
 If you have any questions, concerns, or suggestions regarding this Privacy Policy or the App, please contact us at:
 
-Email: benandbellaadventures@gmail.com
-
+Email: benandballaadventures@gmail.com 
 Developer: VertexByte Technologies
+
+
+
