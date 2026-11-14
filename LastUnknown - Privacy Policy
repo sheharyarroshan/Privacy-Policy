@@ -1,0 +1,125 @@
+Privacy Policy
+Last updated: November 14, 2026
+
+This Privacy Policy explains how LastKnown ("we", "our", or "the app") handles information when you use our mobile application.
+
+LastKnown is a personal belongings organizer designed to help users remember where they keep their belongings. We respect your privacy and aim to keep your personal information under your control.
+1. Information We Collect
+LastKnown is designed to operate completely offline.
+
+We do not require users to create an account, register, or provide personal information to use the application.
+
+The app may store the following information locally on your device:
+- Item information: Names and categories of your belongings.
+- Location information: Manually entered room names, storage locations, drawers, shelves, and other descriptions.
+- Item photographs: Images you choose to attach to your belongings.
+- Personal notes: Descriptions or additional information you enter.
+- Favorites: Items you mark as favorites.
+- Location history: Records of previous locations and the dates and times when locations were updated.
+- Application preferences: Your selected appearance, such as light mode, dark mode, or system default.
+This information is stored locally on your device using an SQLite database and local application storage.
+2. How We Use Your Information
+Information stored in LastKnown is used only to provide the application's features.
+
+These features include:
+- Saving and organizing belongings.
+- Remembering where items are stored.
+- Searching for saved items.
+- Displaying item photographs.
+- Managing favorites.
+- Recording location changes.
+- Displaying location history.
+- Exporting and restoring backups.
+- Remembering application preferences.
+We do not use your saved item information for advertising or profiling.
+3. Data Storage and Security
+LastKnown stores application information locally on your device.
+
+We do not operate a server or cloud database for storing your belongings.
+
+Your saved information is not automatically uploaded to us.
+
+We use the device's local application storage and SQLite database to manage your information.
+
+Although we take reasonable steps to protect locally stored information, no method of electronic storage is completely secure. We recommend protecting your device with an appropriate screen lock and security settings.
+4. Photographs and Media Access
+LastKnown allows you to attach photographs to your saved belongings.
+
+When you choose a photograph, the application accesses the image you select through the device's supported photo selection interface.
+
+Selected photographs are stored in the application's local storage so they remain available within the app.
+
+LastKnown does not automatically upload, publish, or share your photographs.
+
+You control which photographs you choose to attach.
+5. Backup and Restore
+LastKnown provides backup and restore functionality.
+
+When you export a backup:
+- The app creates a backup containing your saved item records, location history, and associated photographs.
+- You choose where to save or share the backup.
+- The backup remains under your control.
+When you import a backup:
+- The application reads the backup file you select.
+- The selected backup may replace your existing application records.
+- The restoration process is performed locally on your device.
+We do not automatically receive or store exported backups.
+
+Please keep your backup files secure because they may contain personal information about your belongings and their locations.
+6. Internet Access and Third-Party Services
+LastKnown is designed to work offline.
+
+The application does not require:
+- An internet connection.
+- User accounts.
+- Cloud storage.
+- Online databases.
+- Advertising services.
+- Third-party analytics services.
+We do not sell, rent, or share your personal information with advertisers.
+
+This statement should only be published if the final app build contains no SDKs or services that transmit user data.
+7. Data Sharing
+We do not collect or transmit your saved belongings information to our servers.
+
+Information may leave the application only when you explicitly choose to export, share, or save a backup using another application or service on your device.
+
+Any information shared through another application is subject to that application's own privacy policy.
+8. Data Retention and Deletion
+Your application information remains stored locally until you delete it or remove the application data.
+
+You can:
+- Delete individual belongings within LastKnown.
+- Remove associated location history when an item is deleted.
+- Delete application data through your device settings.
+- Uninstall LastKnown to remove its locally stored application data.
+Exported backup files are stored separately in locations you choose. Uninstalling LastKnown does not necessarily delete those backup files.
+
+You are responsible for deleting backup copies you no longer need.
+9. Children's Privacy
+LastKnown is a general-purpose personal organization application.
+
+The application does not knowingly collect personal information from children.
+
+Because the application does not require accounts or transmit users' saved belongings information to our servers, users can manage their information locally on their own devices.
+
+Parents and guardians should supervise children's use of mobile applications where appropriate.
+10. Changes to This Privacy Policy
+We may update this Privacy Policy when the application features, functionality, or applicable requirements change.
+
+Any updated version will be made available through our designated privacy policy webpage.
+
+The updated date will be revised when changes are made.
+
+We encourage users to review this policy periodically.
+11. Contact Us
+If you have questions, concerns, or requests regarding this Privacy Policy, contact us:
+
+Application: LastKnown
+
+Developer: Elite Technology
+
+Email: vertexnovotechnologies@gmail.com
+
+
+© 2026 Elite Technology . All rights reserved.
